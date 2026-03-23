@@ -33,9 +33,3 @@ PawLax may include grooming services such as:
 ## Purpose
 
 The purpose of this project is to create a convenient and accessible web-based platform for pet owners who want to schedule grooming appointments online. It also helps showcase a digital solution for pet care service management.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pawlax.git
